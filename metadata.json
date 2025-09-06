@@ -1,0 +1,5 @@
+{
+  "name": "Excel Quiz Taker",
+  "description": "A web app to take a quiz by uploading an Excel file.",
+  "requestFramePermissions": []
+}
